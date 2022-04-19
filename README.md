@@ -1,6 +1,6 @@
 # cucumber-abc
 
-I have no idea how to edit it.
+I am getting some ideas about how to edit this kind of files.
 
 This is an H1
 =============
