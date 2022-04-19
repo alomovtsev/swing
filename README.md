@@ -1,6 +1,7 @@
 # cucumber-abc
 
 I am getting some ideas about how to edit this kind of files.
+Strange, my changed are not there?....
 
 This is an H1
 =============
