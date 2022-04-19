@@ -1,1 +1,2 @@
 line #0001 modified
+line #0002 added
