@@ -1,2 +1,3 @@
 line #0001 modified
 line #0002 added
+line #0003 added in STS
