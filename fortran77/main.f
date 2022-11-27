@@ -1,6 +1,7 @@
       program main
 
 c*********************************************************************72
+c TEST
 c
 cc MAIN is the main program for RANDOM_NUMBERS.
 c
