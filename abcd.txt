@@ -5,3 +5,4 @@ line #0004 added in STS
 line #0005 added in STS same day, cannot commit-n-push from STS
 line #0006 added in vscode
 line #0007 added by vim
+x-mas-2022: ghp_rsb8L7xQ6LQHR1TJsifGv4zrV0hzjE0n2v nana nana
