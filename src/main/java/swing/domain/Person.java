@@ -17,4 +17,8 @@ public class Person {
 	public void foo() {
 		
 	}
+	
+	public void bar() {
+		
+	}
 }
