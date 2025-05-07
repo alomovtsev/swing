@@ -4,6 +4,9 @@ import lombok.Data;
 
 @Data
 public class Person {
+	
+	public static final String RANK = "ABC";
+	
 	private Long id;
 	private String userName;
 	private int score;
