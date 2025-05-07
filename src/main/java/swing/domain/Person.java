@@ -14,4 +14,7 @@ public class Person {
 		this.score = 0;
 	}
 
+	public void foo() {
+		
+	}
 }
