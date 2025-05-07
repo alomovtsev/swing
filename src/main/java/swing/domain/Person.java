@@ -6,6 +6,7 @@ import lombok.Data;
 public class Person {
 	
 	public static final String RANK = "ABC";
+	public static final String DIVISION = "XYZ";
 	
 	private Long id;
 	private String userName;
